@@ -1,0 +1,4 @@
+{
+    "urlSearch": "https://api.mercadolibre.com/sites/MLA/search?q=",
+    "urlId": "https://api.mercadolibre.com/items/"
+}
