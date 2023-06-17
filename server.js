@@ -51,6 +51,7 @@ app.get('/api/items', async (req, res) => {
     for (let i = 0; i < 4; i++) {
       item= data.results[i];
       preItems={};
+      price = {};
       categorias = [];
 
       //completo el json a devolver
